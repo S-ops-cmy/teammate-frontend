@@ -3,7 +3,7 @@ import { Plus, Search, Filter, Download, Users, Star } from 'lucide-react';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
 
-const BACKEND_URL = 'http://localhost:8080/api/data/SkillMatch';
+const BACKEND_URL = 'https://teammate-backend.onrender.com/api/data/SkillMatch';
 
 interface SkillEntry {
   id: string;
