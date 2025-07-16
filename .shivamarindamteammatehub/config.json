@@ -1,0 +1,22 @@
+{
+  "project": "TeamMate Hub - DXC Team Productivity Platform",
+  "version": "1.0.0",
+  "authors": ["Shivam Kumar Singh", "Arindam Sarkar"],
+  "team": "DXC Technology - TPF Development",
+  "features": [
+    "PulseCheck - Daily Tracker",
+    "SkillMatch - Resource Finder", 
+    "LeavePlanner",
+    "Feedback Wall",
+    "QuickPolls",
+    "Manager Dashboard"
+  ],
+  "integrations": [
+    "Google Sheets API",
+    "Local Storage",
+    "CSV Export",
+    "PDF/Word Export"
+  ],
+  "theme": "Light Purple DXC Professional",
+  "lastUpdated": "2024-12-19"
+}

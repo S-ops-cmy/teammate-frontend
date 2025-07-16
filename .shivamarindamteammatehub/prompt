@@ -1,0 +1,36 @@
+TeamMate Hub - DXC Team Productivity Platform
+
+A comprehensive team productivity application built for DXC Technology teams with the following key features:
+
+🎯 CORE FEATURES:
+- PulseCheck: Daily standup tracking
+- SkillMatch: Team skills and resource finder
+- LeavePlanner: Leave management with calendar view
+- Feedback Wall: Anonymous and named feedback system
+- QuickPolls: Real-time team polling
+- Manager Dashboard: Comprehensive analytics and reporting
+
+🎨 DESIGN:
+- Light purple DXC-themed professional layout
+- Modern UI with gradients, shadows, and micro-interactions
+- Responsive design for mobile and desktop
+- Apple-level design aesthetics
+
+🔗 INTEGRATIONS:
+- Google Sheets API for real-time data synchronization
+- Local Storage for offline functionality
+- CSV export for all modules
+- PDF/Word export for manager reports
+
+👥 TEAM STRUCTURE:
+Based on actual DXC team data with proper role-based access and team manager exclusion from member lists.
+
+🚀 TECHNOLOGY STACK:
+- React 18 + TypeScript
+- Tailwind CSS
+- Vite
+- Lucide React Icons
+- Google Sheets API
+- date-fns
+
+Built by Shivam Kumar Singh & Arindam Sarkar for DXC Technology TPF Development Team.
