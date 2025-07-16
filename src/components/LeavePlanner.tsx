@@ -14,7 +14,7 @@ const TEAM_MEMBERS = [
   'Vijaykumar P', 'Swati U Talawar', 'Shreyas Shaha', 'Arun Patange Kumar'
 ];
 
-const BACKEND_URL = 'http://localhost:8080/api/data/LeavePlanner';
+const BACKEND_URL = 'https://teammate-backend.onrender.com/api/data/LeavePlanner';
 
 interface LeaveEntry {
   id: string;
