@@ -29,8 +29,8 @@ const TEAM_MEMBERS = [
   'Vijaykumar P', 'Swati U Talawar', 'Shreyas Shaha', 'Arun Patange Kumar'
 ];
 
-const POLLS_URL = 'http://localhost:8080/api/data/Polls';
-const RESPONSES_URL = 'http://localhost:8080/api/data/PollResponses';
+const POLLS_URL = 'https://teammate-backend.onrender.com/api/data/Polls';
+const RESPONSES_URL = 'https://teammate-backend.onrender.com/api/data/PollResponses';
 
 const QuickPolls: React.FC = () => {
   const [polls, setPolls] = useState<Poll[]>([]);
