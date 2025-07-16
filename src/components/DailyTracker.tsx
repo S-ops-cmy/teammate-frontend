@@ -21,7 +21,7 @@ const TEAM_MEMBERS = [
   'Vijaykumar P', 'Swati U Talawar', 'Shreyas Shaha', 'Arun Patange Kumar'
 ];
 
-const API_URL = 'http://localhost:8080/api/data/DailyTracker';
+const API_URL = 'https://teammate-backend.onrender.com/api/data/DailyTracker';
 
 // --- Export helpers ---
 function exportSectionToPDF(sectionId: string, filename: string) {
