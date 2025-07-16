@@ -48,7 +48,7 @@ function exportSectionToWord(sectionId: string, filename: string) {
 }
 // --- End Export helpers ---
 
-const BACKEND_URL = 'http://localhost:8080/api/data/FeedbackWall';
+const BACKEND_URL = 'https://teammate-backend.onrender.com/api/data/FeedbackWall';
 
 interface FeedbackEntry {
   id: string;
